@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMTXM",
+	"modules": [
+		{
+			"moduleId": "MMTXM",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMF",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cuentas",
+	"subModuleId": "SSMMF"
+}
